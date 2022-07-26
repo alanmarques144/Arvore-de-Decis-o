@@ -23,4 +23,22 @@ O classisficador foi feito utilizando a implementação do algoritmo da Árvore 
 - [Jupyter Notebook](https://jupyter.org/).
 
 
-###  Estrutura do Repositorio
+###  Sumário
+
+- [CÓDIGO](https://github.com/alanmarques144/Arvore-de-Decis-o/blob/main/IA-3%C2%B0Trabalho/ArvoreDeDecis%C3%A3o.ipynb).
+
+- [RELATORIO](https://github.com/alanmarques144/Arvore-de-Decis-o/blob/main/IA-3%C2%B0Trabalho/Relatorio_ArvoreDeDecis%C3%A3o.pdf).
+
+- [ENUNCIADO](https://github.com/alanmarques144/Arvore-de-Decis-o/blob/main/IA-3%C2%B0Trabalho/Trabalho%20Final%20de%20Intelig%C3%AAncia%20Artificial.pdf).
+
+- [DATASET](https://github.com/alanmarques144/Arvore-de-Decis-o/blob/main/IA-3%C2%B0Trabalho/jogadores.csv).
+
+- [PREDIÇÕES](https://github.com/alanmarques144/Arvore-de-Decis-o/blob/main/IA-3%C2%B0Trabalho/respostas.csv).
+
+- [DADOS PARA PREDIÇÃO](https://github.com/alanmarques144/Arvore-de-Decis-o/blob/main/IA-3%C2%B0Trabalho/validacao.csv).
+
+
+
+##  Obrigado 🤙
+
+
