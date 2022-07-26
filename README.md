@@ -12,7 +12,7 @@ A classe (atacante ou defensor) dos primeiros 120 atletas é conhecida, e a part
 
 ###  Ferramentas Utilizadas
 
-O classisficador foi feito utilizando a implementação do algoritmo da Árvore de Decisão da Biblioteca [Sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier.score) do Python.
+O classisficador foi feito utilizando a implementação do algoritmo da Árvore de Decisão da Biblioteca [Sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#) do Python.
 
 - [Python](https://docs.python.org/3/).
 
